@@ -50,10 +50,10 @@ This project focuses on building and evaluating classification models to predict
 ## 📈 Results
 | Model              | Accuracy |
 |-------------------|----------|
-| KNN               | 97%      |
+| KNN               | 92%      |
 | Decision Tree     | 88%      |
-| Random Forest     | 98%      |
-| Logistic Regression | 92%    |
+| Random Forest     | 90%      |
+| Logistic Regression | 85%    |
 
 *(Accuracy values may vary slightly depending on parameters and dataset version)*
 
@@ -76,7 +76,7 @@ Coming Soon...
 - [Kaggle MNIST Page](https://www.kaggle.com/c/digit-recognizer)
 
 ## 🙌 Author
-- Your Name  
-- [LinkedIn]([http://www.linkedin.com/in/aditya-kumar-4276a3281])  
+- Aditya Kumar  
+- [LinkedIn](http://www.linkedin.com/in/aditya-kumar-4276a3281)  
 - [GitHub](https://github.com/adi8454)
 
